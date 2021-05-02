@@ -80,7 +80,7 @@ const Home = () => {
                     <h3 style={{ color: 'white' }}>Web Developer, Programmer, Engineer</h3>
                     <p style={{ color: 'white' }}>New front-end developer who is comfortable working with React, JavaScript, HTML/CSS to deliver exceptional customer experiences. Currently looking for an opportunity to work in a software company that needs a React developer. I'm very passionate about coding and really comfortable with JavaScript and C++. I work very hard and I'm quick learner and self motivated.</p>
                     <br />
-                    <a href="linkedin.com/in/nasif-reza-146177211" class="btn btn-warning">Hire Me</a>
+                    <a href="https://www.linkedin.com/in/nasif-reza-146177211/" class="btn btn-warning">Hire Me</a>
                     <a href="https://drive.google.com/file/d/1nhN8nk8p1K97ZpDkCbRGl942hAbSXHc3/view?usp=sharing" class="btn btn-warning">My Resume</a>
                 </div>
             </div>

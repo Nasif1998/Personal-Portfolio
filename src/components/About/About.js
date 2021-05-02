@@ -33,7 +33,7 @@ const About = () => {
                                 <br />
                                 <div style={{ marginLeft: '150px', marginBottom: '50px' }}>
                                     <a href="https://github.com/Nasif1998"> <FontAwesomeIcon className="zoom" icon={faGithubSquare} size="3x" style={{ color: 'black' }} /></a>
-                                    <a href="linkedin.com/in/nasif-reza-146177211"> <FontAwesomeIcon className="zoom" icon={faLinkedinIn} size="3x" style={{ color: 'black' }} /></a>
+                                    <a href="https://www.linkedin.com/in/nasif-reza-146177211/"> <FontAwesomeIcon className="zoom" icon={faLinkedinIn} size="3x" style={{ color: 'black' }} /></a>
                                     <a href="https://www.facebook.com/nirjhor.ahmednasif/"> <FontAwesomeIcon className="zoom" icon={faFacebookSquare} size="3x" style={{ color: 'black' }} /></a>
                                 </div>
                             </div>
