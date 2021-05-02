@@ -1,0 +1,61 @@
+h1{
+    text-decoration: underline;
+}
+
+.backColor{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.column {
+    display: flex;
+    /* justify-content: center; */
+    width: 90%;
+    height: 1200%;
+    padding-left: 15%;
+  }
+  
+  /* Remove extra left and right margins, due to padding */
+  /* .row {margin: 0 -5px;} */
+  
+  /* Clear floats after the columns */
+  /* .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  } */
+  
+  /* Responsive columns */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+  
+  /* Style the counter cards */
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+  }
+
+  .imgDec{
+      padding-top: 50px;
+      height: 120%
+  }
+
+  .elements{
+      margin-right: 20px;
+      padding: 5px;
+      background-color: rgb(109, 63, 63);
+      text-align: center;
+      border-radius: 5px;
+  }
+
+  a{
+      margin-right: 20px;
+  }
+  
