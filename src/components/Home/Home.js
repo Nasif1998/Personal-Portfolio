@@ -77,7 +77,9 @@ const Home = () => {
             <div className="anime">
                 <div style={{ textAlign: 'center', padding: '200px 0' }}>
                     <h2>Hello, I'm Nasif Reza</h2>
-                    <h3 style={{ color: 'brown' }}>Web Developer, Programmer, Engineer</h3>
+                    <div className="typewriter">
+                        <h3 style={{ color: 'brown' }}>Web Developer, Programmer, Engineer</h3>
+                    </div>
                     <h5 style={{ color: 'indigo', backgroundColor: 'slategray' }}>New front-end developer who is comfortable working with React, JavaScript, HTML/CSS to deliver exceptional customer experiences. Currently looking for an opportunity to work in a software company that needs a React developer.</h5>
                     <br />
                     <a href="https://www.linkedin.com/in/nasif-reza-146177211/" class="btn btn-warning">Hire Me</a>
@@ -315,7 +317,7 @@ const Home = () => {
 
                 </div>
 
-                <p style={{marginTop: '20px', color: 'skyblue'}} className="text-center"> <Link to="../Projects">
+                <p style={{ marginTop: '20px', color: 'skyblue' }} className="text-center"> <Link to="../Projects">
                     <button>More Projects</button>
                 </Link></p>
 
@@ -357,7 +359,7 @@ const Home = () => {
 
                 <div style={{ marginLeft: '45%', marginBottom: '50px' }}>
                     <a href="https://github.com/Nasif1998"> <FontAwesomeIcon className="zoom" icon={faGithubSquare} size="3x" style={{ color: 'black' }} /></a>
-                    <a href="linkedin.com/in/nasif-reza-146177211"> <FontAwesomeIcon className="zoom" icon={faLinkedinIn} size="3x" style={{ color: 'black' }} /></a>
+                    <a href="https://www.linkedin.com/in/nasif-reza-146177211/"> <FontAwesomeIcon className="zoom" icon={faLinkedinIn} size="3x" style={{ color: 'black' }} /></a>
                     <a href="https://www.facebook.com/nirjhor.ahmednasif/"> <FontAwesomeIcon className="zoom" icon={faFacebookSquare} size="3x" style={{ color: 'black' }} /></a>
                 </div>
 
