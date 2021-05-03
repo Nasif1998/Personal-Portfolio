@@ -2,6 +2,8 @@ import React from 'react';
 import NavBar from '../NavBar/NavBar';
 import './Contact.css';
 import emailjs from 'emailjs-com';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGithubSquare, faLinkedinIn, faFacebookSquare } from '@fortawesome/free-brands-svg-icons';
 
 const Contact = () => {
 
@@ -50,6 +52,16 @@ const Contact = () => {
                         </div>
                     </div>
                 </section>
+            </div>
+
+            <div style={{ marginLeft: '45%', marginBottom: '50px' }}>
+                <a href="https://github.com/Nasif1998"> <FontAwesomeIcon className="zoom" icon={faGithubSquare} size="3x" style={{ color: 'black' }} /></a>
+                <a href="https://www.linkedin.com/in/nasif-reza-146177211/"> <FontAwesomeIcon className="zoom" icon={faLinkedinIn} size="3x" style={{ color: 'black' }} /></a>
+                <a href="https://www.facebook.com/nirjhor.ahmednasif/"> <FontAwesomeIcon className="zoom" icon={faFacebookSquare} size="3x" style={{ color: 'black' }} /></a>
+            </div>
+
+            <div style={{ marginLeft: '40%', marginBottom: '50px' }}>
+                <h3>Phone No: 01717-511442</h3>
             </div>
 
             <div className="copyRight text-center text-light">

@@ -73,7 +73,7 @@ const Projects = () => {
                                         <li>Admin can add and remove services and order list from database.</li>
                                     </ul>
                                 </div>
-                                <h4>Technology</h4>
+                                {/* <h4>Technology</h4>
                                 <div style={{ display: 'flex' }}>
                                     <h5 className="elements">HTML5</h5>
                                     <h5 className="elements">CSS3</h5>
@@ -90,7 +90,7 @@ const Projects = () => {
                                 </div>
                                 <div style={{ display: 'flex' }}>
                                     <h5 className="elements">MongoDB</h5>
-                                </div>
+                                </div> */}
 
                                 <div style={{ display: 'flex' }}>
                                     <a href="https://dri-cub.web.app/" class="btn btn-info">Live</a>
@@ -150,7 +150,7 @@ const Projects = () => {
                                         <li>Admin can add and remove books from database and home page.</li>
                                     </ul>
                                 </div>
-                                <h4>Technology</h4>
+                                {/* <h4>Technology</h4>
                                 <div style={{ display: 'flex' }}>
                                     <h5 className="elements">HTML5</h5>
                                     <h5 className="elements">CSS3</h5>
@@ -167,7 +167,7 @@ const Projects = () => {
                                 </div>
                                 <div style={{ display: 'flex' }}>
                                     <h5 className="elements">MongoDB</h5>
-                                </div>
+                                </div> */}
 
                                 <div style={{ display: 'flex' }}>
                                     <a href="https://book-shop-80fa7.web.app/" class="btn btn-info">Live</a>
@@ -226,7 +226,7 @@ const Projects = () => {
                                         <li>Then you can go to the description. There you can input route.</li>
                                     </ul>
                                 </div>
-                                <h4>Technology</h4>
+                                {/* <h4>Technology</h4>
                                 <div style={{ display: 'flex' }}>
                                     <h5 className="elements">HTML5</h5>
                                     <h5 className="elements">CSS3</h5>
@@ -239,7 +239,7 @@ const Projects = () => {
                                     <h5 className="elements">MongoDB</h5>
                                     <h5 className="elements">React Router</h5>
                                     <h5 className="elements">Firebase</h5>
-                                </div>
+                                </div> */}
 
                                 <div style={{ display: 'flex' }}>
                                     <a href="https://urban-rides-de25e.web.app/" class="btn btn-info">Live</a>
@@ -296,7 +296,7 @@ const Projects = () => {
                                         <li>In the bottom there are twitter, facebook and youtube icons. By clicking we can go to the respective site.</li>
                                     </ul>
                                 </div>
-                                <h4>Technology</h4>
+                                {/* <h4>Technology</h4>
                                 <div style={{ display: 'flex' }}>
                                     <h5 className="elements">HTML5</h5>
                                     <h5 className="elements">CSS3</h5>
@@ -307,7 +307,7 @@ const Projects = () => {
                                 <div style={{ display: 'flex' }}>
                                     <h5 className="elements">React BootStrap</h5>
                                     <h5 className="elements">React Router</h5>
-                                </div>
+                                </div> */}
 
                                 <div style={{ display: 'flex' }}>
                                     <a href="https://stupefied-mcnulty-2ddfb9.netlify.app/" class="btn btn-info">Live</a>
@@ -357,7 +357,7 @@ const Projects = () => {
                                         <li>In the cart list one can see total cost of players.</li>
                                     </ul>
                                 </div>
-                                <h4>Technology</h4>
+                                {/* <h4>Technology</h4>
                                 <div style={{ display: 'flex' }}>
                                     <h5 className="elements">HTML5</h5>
                                     <h5 className="elements">CSS3</h5>
@@ -368,7 +368,7 @@ const Projects = () => {
                                 <div style={{ display: 'flex' }}>
                                     <h5 className="elements">React BootStrap</h5>
                                     <h5 className="elements">React Router</h5>
-                                </div>
+                                </div> */}
 
                                 <div style={{ display: 'flex' }}>
                                     <a href="https://stupefied-mcnulty-2ddfb9.netlify.app/" class="btn btn-info">Live</a>

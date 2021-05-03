@@ -77,8 +77,8 @@ const Home = () => {
             <div className="anime">
                 <div style={{ textAlign: 'center', padding: '200px 0' }}>
                     <h2>Hello, I'm Nasif Reza</h2>
-                    <h3 style={{ color: 'white' }}>Web Developer, Programmer, Engineer</h3>
-                    <p style={{ color: 'white' }}>New front-end developer who is comfortable working with React, JavaScript, HTML/CSS to deliver exceptional customer experiences. Currently looking for an opportunity to work in a software company that needs a React developer. I'm very passionate about coding and really comfortable with JavaScript and C++. I work very hard and I'm quick learner and self motivated.</p>
+                    <h3 style={{ color: 'brown' }}>Web Developer, Programmer, Engineer</h3>
+                    <h5 style={{ color: 'indigo', backgroundColor: 'slategray' }}>New front-end developer who is comfortable working with React, JavaScript, HTML/CSS to deliver exceptional customer experiences. Currently looking for an opportunity to work in a software company that needs a React developer.</h5>
                     <br />
                     <a href="https://www.linkedin.com/in/nasif-reza-146177211/" class="btn btn-warning">Hire Me</a>
                     <a href="https://drive.google.com/file/d/1nhN8nk8p1K97ZpDkCbRGl942hAbSXHc3/view?usp=sharing" class="btn btn-warning">My Resume</a>
@@ -136,7 +136,7 @@ const Home = () => {
                                                 <li>Admin can add and remove services and order list from database.</li>
                                             </ul>
                                         </div>
-                                        <h4>Technology</h4>
+                                        {/* <h4>Technology</h4>
                                         <div style={{ display: 'flex' }}>
                                             <h5 className="elements">HTML5</h5>
                                             <h5 className="elements">CSS3</h5>
@@ -153,7 +153,7 @@ const Home = () => {
                                         </div>
                                         <div style={{ display: 'flex' }}>
                                             <h5 className="elements">MongoDB</h5>
-                                        </div>
+                                        </div> */}
 
                                         <div style={{ display: 'flex' }}>
                                             <a href="https://dri-cub.web.app/" class="btn btn-info">Live</a>
@@ -212,7 +212,7 @@ const Home = () => {
                                                 <li>Admin can add and remove books from database and home page.</li>
                                             </ul>
                                         </div>
-                                        <h4>Technology</h4>
+                                        {/* <h4>Technology</h4>
                                         <div style={{ display: 'flex' }}>
                                             <h5 className="elements">HTML5</h5>
                                             <h5 className="elements">CSS3</h5>
@@ -229,7 +229,7 @@ const Home = () => {
                                         </div>
                                         <div style={{ display: 'flex' }}>
                                             <h5 className="elements">MongoDB</h5>
-                                        </div>
+                                        </div> */}
 
                                         <div style={{ display: 'flex' }}>
                                             <a href="https://book-shop-80fa7.web.app/" class="btn btn-info">Live</a>
@@ -288,7 +288,7 @@ const Home = () => {
                                                 <li>Then you can go to the description. There you can input route.</li>
                                             </ul>
                                         </div>
-                                        <h4>Technology</h4>
+                                        {/* <h4>Technology</h4>
                                         <div style={{ display: 'flex' }}>
                                             <h5 className="elements">HTML5</h5>
                                             <h5 className="elements">CSS3</h5>
@@ -301,7 +301,7 @@ const Home = () => {
                                             <h5 className="elements">MongoDB</h5>
                                             <h5 className="elements">React Router</h5>
                                             <h5 className="elements">Firebase</h5>
-                                        </div>
+                                        </div> */}
 
                                         <div style={{ display: 'flex' }}>
                                             <a href="https://urban-rides-de25e.web.app/" class="btn btn-info">Live</a>
